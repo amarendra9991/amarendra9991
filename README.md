@@ -1,6 +1,7 @@
 ---
 - Name: Amarendra Kumar
-  hosts: GitHub
+
+- hosts: GitHub
   become: true
     - Cloud platform:
         - AWS Cloud
