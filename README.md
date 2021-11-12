@@ -1,10 +1,48 @@
-- 👋 Hi, I’m Amarendra kumar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-amarendra9991/amarendra9991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+- Name: Amarendra Kumar
+  hosts: GitHub
+  become: true
+    - Cloud platform:
+        - AWS Cloud
+        - Azure
+        - Private Cloud - vRA8.x
+    - Operating Systems:
+        - RedHat Linux Release 6.x, 7.x
+        - Windows Server 2012/2016/2019
+    - Scripting Languages:
+        - Bash
+        - Python    
+    - Infrastucture As a Code:
+        - Terraform
+        - Ansible
+    - Software Provisioning/Configuration Management:
+        - Ansible
+    - Machine Image As a Code: 
+        - Packer
+    - Source Code Management/Version Control:
+        - Git
+        - Bitbucket
+    - Continuous Integeration/Continuous Deployment:
+        - Jenkins
+        - Azure Devops
+    - Containerization:
+        - Docker
+        - K8's
+    - Secrets Management Tool
+        - HashiCorp Vault
+    - Monitoring Tools:
+        - AWS CloudWatch
+        - Azure Monitor & Log Analytics
+        - Datadog
+        - New Relics
+        - App Dynamics
+        - Splunk
+        - Prometheus & Grafana
+    - Certifications:
+        - AWS Solution Architect Professional Certfied
+        - AWS Devops Professional Certfied
+        - HashiCorp Certified: Terraform Associate 
+        - AZ- 300 Azure Solution Architect Certification
+        - AZ- 301 Microsoft Azure Architect Design
+        - AZ-400 Azure Solution Architect Certification
+        - Certified Kubernetes Administrator (CKA)
